@@ -1,0 +1,5 @@
+.bundle
+db/
+log/*.log
+tmp/**/*
+*.tmproj
